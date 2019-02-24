@@ -15,7 +15,8 @@ High Resolution Image Inpainting with Progressive Growing of GAN
      
      
      
-> The picture shows Our model’s performance.(image-size:256x256 pixel)(hiding-size:128x128 pixel)
+> The picture shows Our model’s performance.
+>(image-size:256x256 pixel)(hiding-size:128x128 pixel)
 
 ![image](https://github.com/yuchunwang/cvlab_homework/blob/master/597_vis.jpg)
      
